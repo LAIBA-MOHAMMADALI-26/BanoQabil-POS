@@ -4,6 +4,11 @@
 
 Efficient point-of-sale systems are essential for enhancing customer experiences and optimizing operations. Our POS MERN (MongoDB, Express.js, React, Node.js) Stack Project delivers a modern and feature-rich solution for businesses.
 
+
+### Live URL
+https://pos-banoqabil.cyclic.cloud/signup
+
+
 ### Project Overview
 
 Our POS MERN Stack Project provides businesses with a powerful tool for managing sales, inventory, and customer interactions. Leveraging MongoDB, Express.js, React, and Node.js, this application offers a seamless point-of-sale experience.
