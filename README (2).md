@@ -23,7 +23,7 @@ Our POS MERN Stack Project provides businesses with a powerful tool for managing
 
 ### Technologies Used
 
-- **Frontend:** React, Redux
+- **Frontend:** React,Material UI
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
 
